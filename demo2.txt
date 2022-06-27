@@ -1,1 +1,10 @@
 Hi i am mayur nikam.(Passion, Perfection, Persistance)
+
+ git --version
+ git status
+ git init
+ clear
+ touch demo.txt
+ git add demo.txt
+ git add .
+ git commit -m 'initial commit'  (commit message)
