@@ -19,3 +19,5 @@ git push origin master (SSH KEY)        # file push to git repo from local
 git clone (SSH KEY FROM Repo)           #file download from one local folder
 
 Git Pull:-(git pull is combination of fetch and clone)
+
+

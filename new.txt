@@ -1,0 +1,3 @@
+we are creating git  and git bash account.
+and learn new command on git bash for make branch in bash also code make it.
+for  transfer code for checking to seniour person
