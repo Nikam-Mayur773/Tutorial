@@ -1,0 +1,21 @@
+git --version                           # git version check
+git status                              # status about repo
+git init                                #initialized git repository
+clear                                   #clear page 
+touch demo.txt
+git add demo.txt
+git add .                               #add file 
+git commit -m 'initial commit'          #commit file & ready for push
+git log
+ 
+git config --global user.name           #user name verifie
+git config --global user.username       #username cross check
+git config --global user.mail           #mail cross check
+fet git remote add origin (SSH key)
+ 
+git remote -v                           #check link or not for fet & push
+git push origin master (SSH KEY)        # file push to git repo from local 
+
+git clone (SSH KEY FROM Repo)           #file download from one local folder
+
+Git Pull:-(git pull is combination of fetch and clone)
